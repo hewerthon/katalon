@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Profiles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da7d897b-9d95-4428-938f-aa214b2d8460</testCaseGuid>
+   <variable>
+      <defaultValue>'https://admin.meupatrocinio.com/admin/profile.php?profile_id='</defaultValue>
+      <description>Admin profiles URL</description>
+      <id>9e2bf4c1-0cf6-435b-a749-cefb0f0a9fd6</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

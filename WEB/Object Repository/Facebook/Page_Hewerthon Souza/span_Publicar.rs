@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Publicar</name>
+   <tag></tag>
+   <elementGuidId>935c1ba2-593b-4760-9424-07875c0117d8</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Publicar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js_3sf&quot;)/div[@class=&quot;_1j2v&quot;]/div[@class=&quot;_2dck _1pek _4-u3&quot;]/div[@class=&quot;_45wg _69yt&quot;]/button[@class=&quot;_1mf7 _4r1q _4jy0 _4jy3 _4jy1 _51sy selected _42ft&quot;]/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>

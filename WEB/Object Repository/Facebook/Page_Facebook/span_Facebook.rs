@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Facebook</name>
+   <tag></tag>
+   <elementGuidId>55ddc795-1667-46de-85ba-57a4c10def16</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2md</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Facebook</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js_x&quot;)/div[@class=&quot;_2t-a _50tj&quot;]/div[@class=&quot;_2t-a _4pmj _2t-d&quot;]/div[@class=&quot;_2t-e&quot;]/div[@class=&quot;_4kny&quot;]/h1[@class=&quot;_19ea&quot;]/a[@class=&quot;_19eb&quot;]/span[@class=&quot;_2md&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_form-control ng-pristine</name>
+   <tag></tag>
+   <elementGuidId>d288c5ba-f206-4435-8873-66a443f097a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-valid ng-touched focus-visible</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Senha</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;js-focus-visible&quot;]/app[1]/login[1]/div[@class=&quot;login-wrapper&quot;]/main[@class=&quot;login-main-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;login-container&quot;]/form[@class=&quot;page-form ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-pristine ng-valid ng-touched focus-visible&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

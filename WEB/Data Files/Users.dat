@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Users</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>06fa1662-228a-44f6-92b4-af87833ef10d</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>mp2016 HWSDMV2 hewerthon.teste%2BHWSDMV2%40outlook.com https%3A%2F%2Fbeta.mbeta.info%2F</data>
+   <data>mp2017 HWSBMHV2 hewerthon.teste%2BHWSBMHV2%40outlook.com https%3A%2F%2Fdating.mbeta.info%2Fadmin%2Fauth.php</data>
+   <data>null null null https%3A%2F%2Fdating.mbeta.info%2Fmember%2Fsign_in.php</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Passwords</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Users</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Emails</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>URLs</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

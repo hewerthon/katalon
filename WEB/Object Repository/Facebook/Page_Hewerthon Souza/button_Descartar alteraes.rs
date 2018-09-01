@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Descartar alteraes</name>
+   <tag></tag>
+   <elementGuidId>ccffd7af-cd5b-4b5b-b24f-fd24e379c91a</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>confirm</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layerConfirm _4jy0 _4jy3 _4jy1 _51sy selected _42ft</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Descartar alterações</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facebook&quot;)/body[@class=&quot;_4lh timelineLayout _51x9 noFooter fbx hasBanner _-kb _61s0 _605a b_1ggrx7fafh chrome webkit win x1 Locale_pt_BR&quot;]/div[@class=&quot;_10 uiLayer _4-hy _3qw&quot;]/div[@class=&quot;_59s7&quot;]/div[@class=&quot;_4t2a&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;_5a8u _5lnf uiOverlayFooter&quot;]/div[1]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;_ohf rfloat&quot;]/div[1]/button[@class=&quot;layerConfirm _4jy0 _4jy3 _4jy1 _51sy selected _42ft&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

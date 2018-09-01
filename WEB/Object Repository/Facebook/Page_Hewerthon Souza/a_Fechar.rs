@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fechar</name>
+   <tag></tag>
+   <elementGuidId>a410f9d5-b019-4c43-9ec3-d492b858ad7f</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>autofocus layerCancel _4jy0 _4jy3 _4jy1 _51sy selected _42ft _5f0v</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>cancel</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fechar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facebook&quot;)/body[@class=&quot;_4lh timelineLayout _51x9 noFooter fbx hasBanner _-kb _61s0 _605a b_1ggrx7fafh chrome webkit win x1 Locale_pt_BR&quot;]/div[@class=&quot;_10 uiLayer _4-hy _3qw&quot;]/div[@class=&quot;_1yv&quot;]/div[@class=&quot;_t&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;_5a8u _5lnf uiOverlayFooter&quot;]/div[1]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;_ohf rfloat&quot;]/div[1]/a[@class=&quot;autofocus layerCancel _4jy0 _4jy3 _4jy1 _51sy selected _42ft _5f0v&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

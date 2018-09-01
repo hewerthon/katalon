@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Configuraes</name>
+   <tag></tag>
+   <elementGuidId>312ad2c4-ddd1-4fe4-9a77-74ad64cc1226</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/main/settings/notifications</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configurações</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;js-focus-visible&quot;]/app[1]/maincomp[1]/div[1]/header[1]/div[@class=&quot;container visible-md visible-lg&quot;]/nav[@class=&quot;pull-right&quot;]/div[@class=&quot;dropdown pull-left open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[3]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>

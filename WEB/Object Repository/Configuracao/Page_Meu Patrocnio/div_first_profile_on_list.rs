@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_first_profile_on_list</name>
+   <tag></tag>
+   <elementGuidId>3dfad76e-6c65-4b0d-994c-c28ca4edfa4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;igaveaccess&quot;)/ul[@class=&quot;mini-users-list&quot;]/li[1]/profilepreviewsmall[1]/a[@class=&quot;clearfix&quot;]/div[@class=&quot;info&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>info</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;igaveaccess&quot;)/ul[@class=&quot;mini-users-list&quot;]/li[1]/profilepreviewsmall[1]/a[@class=&quot;clearfix&quot;]/div[@class=&quot;info&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
