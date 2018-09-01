@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_profile_thumb</name>
+   <tag></tag>
+   <elementGuidId>cfd4237c-d9aa-4235-9a6d-3a3e1729f4b6</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images2.meupatrocinio.com/unsafe/trim/195x195/smart/https://images.meupatrocinio.com/original_330111_1275449_19.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile_thumb</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>85</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;httpdoc&quot;)/div[@class=&quot;gallery_cont_outer&quot;]/div[@class=&quot;pvgallery&quot;]/div[@class=&quot;block&quot;]/div[@class=&quot;block_body&quot;]/div[@class=&quot;block_body_r&quot;]/div[@class=&quot;block_body_c clearfix&quot;]/div[@class=&quot;pvthumb&quot;]/a[@class=&quot;profile_thumb_wrapper&quot;]/img[@class=&quot;profile_thumb&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

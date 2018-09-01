@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Permitiram-me</name>
+   <tag></tag>
+   <elementGuidId>70cd895f-1fa9-45b9-9352-ac440594b6bb</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>privatephotos</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Permitiram-me</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;js-focus-visible&quot;]/app[1]/maincomp[1]/main[1]/settings[1]/main[1]/div[@class=&quot;container settings-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-7 col-md-offset-1&quot;]/private-photo-permission[1]/div[@class=&quot;col-xs-12 col-md-7 col-md-offset-1&quot;]/div[@class=&quot;page-menu md-transparent&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;wid-50perc text-center&quot;]/button[1]</value>
+   </webElementProperties>
+</WebElementEntity>

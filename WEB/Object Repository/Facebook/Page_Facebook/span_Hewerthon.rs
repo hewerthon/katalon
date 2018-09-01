@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hewerthon</name>
+   <tag></tag>
+   <elementGuidId>8ed07b32-7729-4ae5-9d82-c7237a7aa058</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1vp5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hewerthon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_a&quot;)/div[@class=&quot;_cy6&quot;]/div[@class=&quot;_4kny&quot;]/div[@class=&quot;_1k67 _cy7&quot;]/a[@class=&quot;_2s25 _606w&quot;]/span[@class=&quot;_1qv9&quot;]/span[@class=&quot;_1vp5&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
